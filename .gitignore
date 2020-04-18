@@ -2,3 +2,6 @@
 /.idea
 /vendor
 composer.lock
+/src/Mail2Dms/log
+.DS_Store
+src/.DS_Store
