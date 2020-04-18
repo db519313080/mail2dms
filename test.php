@@ -2,8 +2,8 @@
 
 require_once 'vendor/autoload.php';
 
-use Mail2dms\Mail2dms;
-use Mail2dms\MailConf;
+use Db\Mail2dms\Mail2dms;
+use Db\Mail2dms\MailConf;
 
 $mail2dms = new Mail2dms(new MailConf([
     'MAIL_DRIVER'=>'pop',

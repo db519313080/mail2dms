@@ -8,7 +8,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Db\\Mail2dms\\": "src/"
+            "Db\\Mail2dms\\": "src/Mail2Dms"
         }
     }
 }
