@@ -1,5 +1,8 @@
 {
     "name": "tools/mail2dms",
+    "description": "this is test",
+    "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "dangbing",
