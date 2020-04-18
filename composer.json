@@ -14,5 +14,10 @@
             "Db\\Mail2dms\\": "src/Mail2Dms"
         }
     },
-    "require": {}
+    "require": {
+        "php": ">=7.*",
+        "ext-imap": "*",
+        "php-imap/php-imap": "^3.1",
+        "guzzlehttp/guzzle": "^6.5"
+    }
 }
