@@ -1,6 +1,6 @@
 <?php
 
-namespace Mail2dms\func;
+namespace Db\Mail2dms\func;
 
 /**
  * 查找字符、字符串第n次出现的位置

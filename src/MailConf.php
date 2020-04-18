@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Mail2dms;
+namespace Db\Mail2dms;
 
 define('MAIL_DRIVER', 'pop');
 define('MAIL_HOST', 'imap.exmail.qq.com');

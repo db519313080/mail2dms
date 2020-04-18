@@ -1,8 +1,8 @@
 <?php
 
-namespace Mail2dms;
+namespace Db\Mail2dms;
 
-use Mail2dms\func;
+use Db\Mail2dms\func;
 
 class Mail2dms
 {
