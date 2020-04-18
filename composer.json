@@ -1,5 +1,5 @@
 {
-    "name": "tools/mail2dms",
+    "name": "db/mail2dms",
     "description": "this is test",
     "type": "library",
     "license": "MIT",
