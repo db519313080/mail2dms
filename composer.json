@@ -1,0 +1,14 @@
+{
+    "name": "tools/mail2dms",
+    "authors": [
+        {
+            "name": "dangbing",
+            "email": "519313080@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Mail2dms\\": "src/"
+        }
+    }
+}
