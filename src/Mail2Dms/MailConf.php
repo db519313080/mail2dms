@@ -1,14 +1,6 @@
 <?php
 
-
 namespace Db\Mail2dms;
-
-define('MAIL_DRIVER', 'pop');
-define('MAIL_HOST', 'imap.exmail.qq.com');
-define('MAIL_PORT', 995);
-define('MAIL_USERNAME', 'bing.dang@zebra-c.com');
-define('MAIL_PASSWORD', '123456');
-define('MAIL_ENCRYPTION', 'ssl');
 
 class MailConf
 {
