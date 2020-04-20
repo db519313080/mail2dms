@@ -4,6 +4,7 @@
     "type": "library",
     "license": "MIT",
     "version": "1.0.0",
+    "homepage": "https://github.com/db519313080/mail2dms",
     "authors": [
         {
             "name": "dangbing",
